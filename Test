@@ -1,0 +1,4 @@
+public static Test()
+{
+  System.out.println("Test");
+}
